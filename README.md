@@ -10,6 +10,8 @@ yarn sequelize db:migrate
 #Rodar as Seeds
 yarn sequelize db:seed:all
 
+
+Setar o .env na API
 Setar o .env no ambiente Mobile
 
 
