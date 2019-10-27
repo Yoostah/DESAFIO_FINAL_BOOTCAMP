@@ -11,7 +11,7 @@ yarn sequelize db:migrate
 yarn sequelize db:seed:all
 
 
-Setar o .env na API
+Setar o .env na API <br>
 Setar o .env no ambiente Mobile
 
 
