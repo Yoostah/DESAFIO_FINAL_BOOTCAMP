@@ -40,3 +40,10 @@ export const NoMeetupsText = styled.Text`
   line-height: 20px;
   text-align: center;
 `;
+
+export const Spinner = styled.View`
+  position: absolute;
+  bottom: 35%;
+  left: 45%;
+`;
+
